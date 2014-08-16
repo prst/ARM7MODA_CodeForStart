@@ -1,0 +1,533 @@
+
+Discarded input sections
+
+ .data          0x00000000        0x0 obj/sram_isp_cstartup.o
+ .bss           0x00000000        0x0 obj/sram_isp_cstartup.o
+ .text          0x00000000        0x0 obj/sram_main.o
+ .data          0x00000000        0x0 obj/sram_main.o
+ .text          0x00000000        0x0 obj/sram_string.o
+ .data          0x00000000        0x0 obj/sram_string.o
+ .bss           0x00000000        0x0 obj/sram_string.o
+ .text.memset   0x00000000        0x0 obj/sram_string.o
+ .text.strchr   0x00000000        0x0 obj/sram_string.o
+ .text.strlen   0x00000000        0x0 obj/sram_string.o
+ .text.strrchr  0x00000000        0x0 obj/sram_string.o
+ .text.strcpy   0x00000000        0x0 obj/sram_string.o
+ .text.strncmp  0x00000000        0x0 obj/sram_string.o
+ .text.strncpy  0x00000000        0x0 obj/sram_string.o
+ .text          0x00000000        0x0 obj/sram_math.o
+ .data          0x00000000        0x0 obj/sram_math.o
+ .bss           0x00000000        0x0 obj/sram_math.o
+ .text.absv     0x00000000        0x0 obj/sram_math.o
+ .text.power    0x00000000        0x0 obj/sram_math.o
+ .text          0x00000000        0x0 obj/sram_trace.o
+ .data          0x00000000        0x0 obj/sram_trace.o
+ .bss           0x00000000        0x0 obj/sram_trace.o
+ .text.fputc    0x00000000        0x0 obj/sram_trace.o
+ .text.putchar  0x00000000        0x0 obj/sram_trace.o
+ .text.fputs    0x00000000        0x0 obj/sram_trace.o
+ .text.TRACE_GetHexa32
+                0x00000000        0x0 obj/sram_trace.o
+ .text.TRACE_GetInteger
+                0x00000000        0x0 obj/sram_trace.o
+ .text.TRACE_GetIntegerMinMax
+                0x00000000        0x0 obj/sram_trace.o
+ .text.TRACE_DumpFrame
+                0x00000000        0x0 obj/sram_trace.o
+ .text.PrintChar
+                0x00000000        0x0 obj/sram_trace.o
+ .text.TRACE_DumpMemory
+                0x00000000        0x0 obj/sram_trace.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sram_trace.o
+ .text          0x00000000        0x0 obj/sram_dbgu.o
+ .data          0x00000000        0x0 obj/sram_dbgu.o
+ .bss           0x00000000        0x0 obj/sram_dbgu.o
+ .text.DBGU_Configure
+                0x00000000        0x0 obj/sram_dbgu.o
+ .text.DBGU_IsRxReady
+                0x00000000        0x0 obj/sram_dbgu.o
+ .text.DBGU_GetChar
+                0x00000000        0x0 obj/sram_dbgu.o
+ .text          0x00000000        0x0 obj/sram_stdio.o
+ .data          0x00000000        0x0 obj/sram_stdio.o
+ .bss           0x00000000        0x0 obj/sram_stdio.o
+ .text.PutChar  0x00000000        0x0 obj/sram_stdio.o
+ .text.PutString
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.PutUnsignedInt
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.PutSignedInt
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.PutHexa  0x00000000        0x0 obj/sram_stdio.o
+ .text.vsnprintf
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.vsprintf
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.puts     0x00000000        0x0 obj/sram_stdio.o
+ .text.vfprintf
+                0x00000000        0x0 obj/sram_stdio.o
+ .text.vprintf  0x00000000        0x0 obj/sram_stdio.o
+ .text.sprintf  0x00000000        0x0 obj/sram_stdio.o
+ .text.printf   0x00000000        0x0 obj/sram_stdio.o
+ .text.fprintf  0x00000000        0x0 obj/sram_stdio.o
+ .text.snprintf
+                0x00000000        0x0 obj/sram_stdio.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sram_stdio.o
+ .text          0x00000000        0x0 obj/sram_cp15.o
+ .data          0x00000000        0x0 obj/sram_cp15.o
+ .bss           0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_LockDcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_LockIcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_IsDcacheEnabled
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_IsMMUEnabled
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_IsIcacheEnabled
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_DisableDcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_ShutdownDcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_EnableDcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_DisableMMU
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_EnableMMU
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_DisableIcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text.CP15_EnableIcache
+                0x00000000        0x0 obj/sram_cp15.o
+ .text          0x00000000        0x0 obj/sram_pio.o
+ .data          0x00000000        0x0 obj/sram_pio.o
+ .bss           0x00000000        0x0 obj/sram_pio.o
+ .text.PIO_Configure
+                0x00000000        0x0 obj/sram_pio.o
+ .rodata        0x00000000        0x0 obj/sram_pio.o
+ .text.PIO_Set  0x00000000        0x0 obj/sram_pio.o
+ .text.PIO_Clear
+                0x00000000        0x0 obj/sram_pio.o
+ .text.PIO_Get  0x00000000        0x0 obj/sram_pio.o
+ .text.PIO_GetOutputDataStatus
+                0x00000000        0x0 obj/sram_pio.o
+ .text          0x00000000        0x0 obj/sram_board_lowlevel.o
+ .data          0x00000000        0x0 obj/sram_board_lowlevel.o
+ .bss           0x00000000        0x0 obj/sram_board_lowlevel.o
+ .text          0x00000000        0x0 obj/sram_board_memories.o
+ .data          0x00000000        0x0 obj/sram_board_memories.o
+ .bss           0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_RemapRom
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureNandFlash
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureNandFlash48MHz
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureNorFlash
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureNorFlash48MHz
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureFlash48MHz
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureSdram48MHz
+                0x00000000        0x0 obj/sram_board_memories.o
+ .text.BOARD_ConfigureSdram
+                0x00000000        0x0 obj/sram_board_memories.o
+ .rodata        0x00000000        0x0 obj/sram_board_memories.o
+ .text          0x00000000        0x0 obj/sram_eefc.o
+ .data          0x00000000        0x0 obj/sram_eefc.o
+ .text.EFC_EnableFrdyIt
+                0x00000000        0x0 obj/sram_eefc.o
+ .text.EFC_StartCommand
+                0x00000000        0x0 obj/sram_eefc.o
+ .text.EFC_GetStatus
+                0x00000000        0x0 obj/sram_eefc.o
+ .text          0x00000000        0x0 obj/sram_flashd_eefc.o
+ .data          0x00000000        0x0 obj/sram_flashd_eefc.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00200000         0x00080000         xr
+romcodesram      0x00300000         0x00001000         w !xr
+sram             0x00301000         0x00007000         w !xr
+sdram            0x20000000         0x04000000         w !xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD obj/sram_isp_cstartup.o
+LOAD obj/sram_main.o
+LOAD obj/sram_string.o
+LOAD obj/sram_math.o
+LOAD obj/sram_trace.o
+LOAD obj/sram_dbgu.o
+LOAD obj/sram_stdio.o
+LOAD obj/sram_cp15.o
+LOAD obj/sram_pio.o
+LOAD obj/sram_board_lowlevel.o
+LOAD obj/sram_board_memories.o
+LOAD obj/sram_eefc.o
+LOAD obj/sram_flashd_eefc.o
+
+.fixed          0x00301000      0x980
+                0x00301000                . = ALIGN (0x4)
+                0x00301000                _sfixed = .
+ *(.vectors)
+ *(.text*)
+ .text          0x00301000       0xf0 obj/sram_isp_cstartup.o
+                0x00301000                entry
+ .text.main     0x003010f0      0x200 obj/sram_main.o
+                0x003010f0                main
+ .text.memcpy   0x003012f0       0x30 obj/sram_string.o
+                0x003012f0                memcpy
+ .text.min      0x00301320       0x10 obj/sram_math.o
+                0x00301320                min
+ .text.DBGU_PutChar
+                0x00301330       0x1c obj/sram_dbgu.o
+                0x00301330                DBGU_PutChar
+ .text.DefaultSpuriousHandler
+                0x0030134c        0x4 obj/sram_board_lowlevel.o
+                0x0030134c                DefaultSpuriousHandler
+ .text.DefaultFiqHandler
+                0x00301350        0x4 obj/sram_board_lowlevel.o
+                0x00301350                DefaultFiqHandler
+ .text.DefaultIrqHandler
+                0x00301354        0x4 obj/sram_board_lowlevel.o
+                0x00301354                DefaultIrqHandler
+ .text.LowLevelInit
+                0x00301358       0xfc obj/sram_board_lowlevel.o
+                0x00301358                LowLevelInit
+ .text.BOARD_RemapRam
+                0x00301454        0xc obj/sram_board_memories.o
+                0x00301454                BOARD_RemapRam
+ .text.EFC_DisableFrdyIt
+                0x00301460        0xc obj/sram_eefc.o
+                0x00301460                EFC_DisableFrdyIt
+ .text.EFC_TranslateAddress
+                0x0030146c       0x4c obj/sram_eefc.o
+                0x0030146c                EFC_TranslateAddress
+ .text.EFC_ComputeAddress
+                0x003014b8       0x38 obj/sram_eefc.o
+                0x003014b8                EFC_ComputeAddress
+ .text.EFC_PerformCommand
+                0x003014f0       0x58 obj/sram_eefc.o
+                0x003014f0                EFC_PerformCommand
+ .text.EFC_GetResult
+                0x00301548        0x4 obj/sram_eefc.o
+                0x00301548                EFC_GetResult
+ .text.FLASHD_IsGPNVMSet
+                0x0030154c       0x48 obj/sram_flashd_eefc.o
+                0x0030154c                FLASHD_IsGPNVMSet
+ .text.FLASHD_ClearGPNVM
+                0x00301594       0x38 obj/sram_flashd_eefc.o
+                0x00301594                FLASHD_ClearGPNVM
+ .text.FLASHD_SetGPNVM
+                0x003015cc       0x3c obj/sram_flashd_eefc.o
+                0x003015cc                FLASHD_SetGPNVM
+ .text.FLASHD_IsLocked
+                0x00301608       0xa8 obj/sram_flashd_eefc.o
+                0x00301608                FLASHD_IsLocked
+ .text.FLASHD_Erase
+                0x003016b0       0x34 obj/sram_flashd_eefc.o
+                0x003016b0                FLASHD_Erase
+ .text.ComputeLockRange
+                0x003016e4       0x74 obj/sram_flashd_eefc.o
+ .text.FLASHD_Unlock
+                0x00301758       0x7c obj/sram_flashd_eefc.o
+                0x00301758                FLASHD_Unlock
+ .text.FLASHD_Lock
+                0x003017d4       0x7c obj/sram_flashd_eefc.o
+                0x003017d4                FLASHD_Lock
+ .text.FLASHD_Write
+                0x00301850      0x114 obj/sram_flashd_eefc.o
+                0x00301850                FLASHD_Write
+ .text.FLASHD_Initialize
+                0x00301964       0x1c obj/sram_flashd_eefc.o
+                0x00301964                FLASHD_Initialize
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00301980        0x0 obj/sram_isp_cstartup.o
+ .glue_7        0x00301980        0x0 obj/sram_main.o
+ .glue_7        0x00301980        0x0 obj/sram_string.o
+ .glue_7        0x00301980        0x0 obj/sram_math.o
+ .glue_7        0x00301980        0x0 obj/sram_trace.o
+ .glue_7        0x00301980        0x0 obj/sram_dbgu.o
+ .glue_7        0x00301980        0x0 obj/sram_stdio.o
+ .glue_7        0x00301980        0x0 obj/sram_cp15.o
+ .glue_7        0x00301980        0x0 obj/sram_pio.o
+ .glue_7        0x00301980        0x0 obj/sram_board_lowlevel.o
+ .glue_7        0x00301980        0x0 obj/sram_board_memories.o
+ .glue_7        0x00301980        0x0 obj/sram_eefc.o
+ .glue_7        0x00301980        0x0 obj/sram_flashd_eefc.o
+ *(.glue_7t)
+ .glue_7t       0x00301980        0x0 obj/sram_isp_cstartup.o
+ .glue_7t       0x00301980        0x0 obj/sram_main.o
+ .glue_7t       0x00301980        0x0 obj/sram_string.o
+ .glue_7t       0x00301980        0x0 obj/sram_math.o
+ .glue_7t       0x00301980        0x0 obj/sram_trace.o
+ .glue_7t       0x00301980        0x0 obj/sram_dbgu.o
+ .glue_7t       0x00301980        0x0 obj/sram_stdio.o
+ .glue_7t       0x00301980        0x0 obj/sram_cp15.o
+ .glue_7t       0x00301980        0x0 obj/sram_pio.o
+ .glue_7t       0x00301980        0x0 obj/sram_board_lowlevel.o
+ .glue_7t       0x00301980        0x0 obj/sram_board_memories.o
+ .glue_7t       0x00301980        0x0 obj/sram_eefc.o
+ .glue_7t       0x00301980        0x0 obj/sram_flashd_eefc.o
+ *(.data)
+                0x00301980                . = ALIGN (0x4)
+                0x00301980                _efixed = .
+
+.vfp11_veneer   0x00200000        0x0
+ .vfp11_veneer  0x00200000        0x0 obj/sram_isp_cstartup.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_main.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_string.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_math.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_trace.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_dbgu.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_stdio.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_cp15.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_pio.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_board_lowlevel.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_board_memories.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_eefc.o
+ .vfp11_veneer  0x00200000        0x0 obj/sram_flashd_eefc.o
+
+.v4_bx          0x00200000        0x0
+ .v4_bx         0x00200000        0x0 obj/sram_isp_cstartup.o
+ .v4_bx         0x00200000        0x0 obj/sram_main.o
+ .v4_bx         0x00200000        0x0 obj/sram_string.o
+ .v4_bx         0x00200000        0x0 obj/sram_math.o
+ .v4_bx         0x00200000        0x0 obj/sram_trace.o
+ .v4_bx         0x00200000        0x0 obj/sram_dbgu.o
+ .v4_bx         0x00200000        0x0 obj/sram_stdio.o
+ .v4_bx         0x00200000        0x0 obj/sram_cp15.o
+ .v4_bx         0x00200000        0x0 obj/sram_pio.o
+ .v4_bx         0x00200000        0x0 obj/sram_board_lowlevel.o
+ .v4_bx         0x00200000        0x0 obj/sram_board_memories.o
+ .v4_bx         0x00200000        0x0 obj/sram_eefc.o
+ .v4_bx         0x00200000        0x0 obj/sram_flashd_eefc.o
+
+.prerelocate    0x00000000        0x0 load address 0x00301980
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _sprerelocate = .
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _eprerelocate = .
+
+.postrelocate   0x00301980        0x0
+                0x00301980                . = ALIGN (0x4)
+                0x00301980                _spostrelocate = .
+                0x00301980                . = ALIGN (0x4)
+                0x00301980                _epostrelocate = .
+
+.bss            0x00301980      0x224
+                0x00301980                _szero = .
+ *(.bss)
+ .bss           0x00301980       0x20 obj/sram_main.o
+ .bss           0x003019a0        0x4 obj/sram_eefc.o
+ .bss           0x003019a4      0x200 obj/sram_flashd_eefc.o
+                0x00301ba4                . = ALIGN (0x4)
+                0x00301ba4                _ezero = .
+                0x00308000                _sstack = 0x308000
+                0x00301ba4                end = .
+OUTPUT(bin/isp-flash-at91sam9xe512.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x24
+ .ARM.attributes
+                0x00000000       0x14 obj/sram_isp_cstartup.o
+ .ARM.attributes
+                0x00000014       0x2e obj/sram_main.o
+ .ARM.attributes
+                0x00000042       0x2e obj/sram_string.o
+ .ARM.attributes
+                0x00000070       0x2e obj/sram_math.o
+ .ARM.attributes
+                0x0000009e       0x2e obj/sram_trace.o
+ .ARM.attributes
+                0x000000cc       0x2e obj/sram_dbgu.o
+ .ARM.attributes
+                0x000000fa       0x2e obj/sram_stdio.o
+ .ARM.attributes
+                0x00000128       0x2e obj/sram_cp15.o
+ .ARM.attributes
+                0x00000156       0x2e obj/sram_pio.o
+ .ARM.attributes
+                0x00000184       0x2e obj/sram_board_lowlevel.o
+ .ARM.attributes
+                0x000001b2       0x2e obj/sram_board_memories.o
+ .ARM.attributes
+                0x000001e0       0x2e obj/sram_eefc.o
+ .ARM.attributes
+                0x0000020e       0x2e obj/sram_flashd_eefc.o
+
+.debug_line     0x00000000     0x125b
+ .debug_line    0x00000000       0x61 obj/sram_isp_cstartup.o
+ .debug_line    0x00000061       0xaf obj/sram_main.o
+ .debug_line    0x00000110      0x169 obj/sram_string.o
+ .debug_line    0x00000279       0x78 obj/sram_math.o
+ .debug_line    0x000002f1      0x2c2 obj/sram_trace.o
+ .debug_line    0x000005b3       0xe2 obj/sram_dbgu.o
+ .debug_line    0x00000695      0x342 obj/sram_stdio.o
+ .debug_line    0x000009d7      0x13a obj/sram_cp15.o
+ .debug_line    0x00000b11      0x137 obj/sram_pio.o
+ .debug_line    0x00000c48       0xf4 obj/sram_board_lowlevel.o
+ .debug_line    0x00000d3c      0x1f9 obj/sram_board_memories.o
+ .debug_line    0x00000f35      0x14d obj/sram_eefc.o
+ .debug_line    0x00001082      0x1d9 obj/sram_flashd_eefc.o
+
+.debug_info     0x00000000     0x47da
+ .debug_info    0x00000000       0x91 obj/sram_isp_cstartup.o
+ .debug_info    0x00000091      0x42c obj/sram_main.o
+ .debug_info    0x000004bd      0x358 obj/sram_string.o
+ .debug_info    0x00000815      0x116 obj/sram_math.o
+ .debug_info    0x0000092b      0xbc6 obj/sram_trace.o
+ .debug_info    0x000014f1      0x27f obj/sram_dbgu.o
+ .debug_info    0x00001770      0xe81 obj/sram_stdio.o
+ .debug_info    0x000025f1      0x26f obj/sram_cp15.o
+ .debug_info    0x00002860      0x6e8 obj/sram_pio.o
+ .debug_info    0x00002f48      0x4b7 obj/sram_board_lowlevel.o
+ .debug_info    0x000033ff      0xaa9 obj/sram_board_memories.o
+ .debug_info    0x00003ea8      0x32c obj/sram_eefc.o
+ .debug_info    0x000041d4      0x606 obj/sram_flashd_eefc.o
+
+.debug_abbrev   0x00000000      0xf9e
+ .debug_abbrev  0x00000000       0x14 obj/sram_isp_cstartup.o
+ .debug_abbrev  0x00000014       0xff obj/sram_main.o
+ .debug_abbrev  0x00000113      0x10f obj/sram_string.o
+ .debug_abbrev  0x00000222       0xb6 obj/sram_math.o
+ .debug_abbrev  0x000002d8      0x241 obj/sram_trace.o
+ .debug_abbrev  0x00000519       0xcf obj/sram_dbgu.o
+ .debug_abbrev  0x000005e8      0x27c obj/sram_stdio.o
+ .debug_abbrev  0x00000864       0xcd obj/sram_cp15.o
+ .debug_abbrev  0x00000931      0x190 obj/sram_pio.o
+ .debug_abbrev  0x00000ac1       0xa7 obj/sram_board_lowlevel.o
+ .debug_abbrev  0x00000b68      0x18f obj/sram_board_memories.o
+ .debug_abbrev  0x00000cf7      0x134 obj/sram_eefc.o
+ .debug_abbrev  0x00000e2b      0x173 obj/sram_flashd_eefc.o
+
+.debug_aranges  0x00000000      0x3f8
+ .debug_aranges
+                0x00000000       0x20 obj/sram_isp_cstartup.o
+ .debug_aranges
+                0x00000020       0x20 obj/sram_main.o
+ .debug_aranges
+                0x00000040       0x58 obj/sram_string.o
+ .debug_aranges
+                0x00000098       0x30 obj/sram_math.o
+ .debug_aranges
+                0x000000c8       0x60 obj/sram_trace.o
+ .debug_aranges
+                0x00000128       0x38 obj/sram_dbgu.o
+ .debug_aranges
+                0x00000160       0x88 obj/sram_stdio.o
+ .debug_aranges
+                0x000001e8       0x78 obj/sram_cp15.o
+ .debug_aranges
+                0x00000260       0x40 obj/sram_pio.o
+ .debug_aranges
+                0x000002a0       0x38 obj/sram_board_lowlevel.o
+ .debug_aranges
+                0x000002d8       0x60 obj/sram_board_memories.o
+ .debug_aranges
+                0x00000338       0x58 obj/sram_eefc.o
+ .debug_aranges
+                0x00000390       0x68 obj/sram_flashd_eefc.o
+
+.debug_frame    0x00000000      0x94c
+ .debug_frame   0x00000000       0x30 obj/sram_main.o
+ .debug_frame   0x00000030       0xd8 obj/sram_string.o
+ .debug_frame   0x00000108       0x58 obj/sram_math.o
+ .debug_frame   0x00000160      0x110 obj/sram_trace.o
+ .debug_frame   0x00000270       0x6c obj/sram_dbgu.o
+ .debug_frame   0x000002dc      0x198 obj/sram_stdio.o
+ .debug_frame   0x00000474      0x130 obj/sram_cp15.o
+ .debug_frame   0x000005a4       0x80 obj/sram_pio.o
+ .debug_frame   0x00000624       0x70 obj/sram_board_lowlevel.o
+ .debug_frame   0x00000694       0xd8 obj/sram_board_memories.o
+ .debug_frame   0x0000076c       0xb4 obj/sram_eefc.o
+ .debug_frame   0x00000820      0x12c obj/sram_flashd_eefc.o
+
+.debug_loc      0x00000000     0x2289
+ .debug_loc     0x00000000      0x23d obj/sram_main.o
+ .debug_loc     0x0000023d      0x319 obj/sram_string.o
+ .debug_loc     0x00000556       0xe0 obj/sram_math.o
+ .debug_loc     0x00000636      0x420 obj/sram_trace.o
+ .debug_loc     0x00000a56       0xa1 obj/sram_dbgu.o
+ .debug_loc     0x00000af7      0x90e obj/sram_stdio.o
+ .debug_loc     0x00001405      0x292 obj/sram_cp15.o
+ .debug_loc     0x00001697      0x1a2 obj/sram_pio.o
+ .debug_loc     0x00001839       0x8f obj/sram_board_lowlevel.o
+ .debug_loc     0x000018c8      0x15a obj/sram_board_memories.o
+ .debug_loc     0x00001a22      0x1e1 obj/sram_eefc.o
+ .debug_loc     0x00001c03      0x686 obj/sram_flashd_eefc.o
+
+.debug_pubnames
+                0x00000000      0x6fe
+ .debug_pubnames
+                0x00000000       0x1b obj/sram_main.o
+ .debug_pubnames
+                0x0000001b       0x6d obj/sram_string.o
+ .debug_pubnames
+                0x00000088       0x2d obj/sram_math.o
+ .debug_pubnames
+                0x000000b5       0x9f obj/sram_trace.o
+ .debug_pubnames
+                0x00000154       0x5a obj/sram_dbgu.o
+ .debug_pubnames
+                0x000001ae       0xdf obj/sram_stdio.o
+ .debug_pubnames
+                0x0000028d      0x11b obj/sram_cp15.o
+ .debug_pubnames
+                0x000003a8       0x66 obj/sram_pio.o
+ .debug_pubnames
+                0x0000040e       0x6a obj/sram_board_lowlevel.o
+ .debug_pubnames
+                0x00000478      0x109 obj/sram_board_memories.o
+ .debug_pubnames
+                0x00000581       0xbd obj/sram_eefc.o
+ .debug_pubnames
+                0x0000063e       0xc0 obj/sram_flashd_eefc.o
+
+.debug_str      0x00000000     0x16ff
+ .debug_str     0x00000000      0x2a1 obj/sram_main.o
+                                0x2df (size before relaxing)
+ .debug_str     0x000002a1      0x100 obj/sram_string.o
+                                0x1f0 (size before relaxing)
+ .debug_str     0x000003a1       0x28 obj/sram_math.o
+                                0x119 (size before relaxing)
+ .debug_str     0x000003c9      0x464 obj/sram_trace.o
+                                0x56d (size before relaxing)
+ .debug_str     0x0000082d      0x15a obj/sram_dbgu.o
+                                0x1d0 (size before relaxing)
+ .debug_str     0x00000987       0xb4 obj/sram_stdio.o
+                                0x5b0 (size before relaxing)
+ .debug_str     0x00000a3b      0x114 obj/sram_cp15.o
+                                0x1f8 (size before relaxing)
+ .debug_str     0x00000b4f      0x2b7 obj/sram_pio.o
+                                0x355 (size before relaxing)
+ .debug_str     0x00000e06      0x1e6 obj/sram_board_lowlevel.o
+                                0x311 (size before relaxing)
+ .debug_str     0x00000fec      0x49f obj/sram_board_memories.o
+                                0x6bc (size before relaxing)
+ .debug_str     0x0000148b       0xe6 obj/sram_eefc.o
+                                0x233 (size before relaxing)
+ .debug_str     0x00001571      0x18e obj/sram_flashd_eefc.o
+                                0x323 (size before relaxing)
+
+.comment        0x00000000      0x204
+ .comment       0x00000000       0x2b obj/sram_main.o
+ .comment       0x0000002b       0x2b obj/sram_string.o
+ .comment       0x00000056       0x2b obj/sram_math.o
+ .comment       0x00000081       0x2b obj/sram_trace.o
+ .comment       0x000000ac       0x2b obj/sram_dbgu.o
+ .comment       0x000000d7       0x2b obj/sram_stdio.o
+ .comment       0x00000102       0x2b obj/sram_cp15.o
+ .comment       0x0000012d       0x2b obj/sram_pio.o
+ .comment       0x00000158       0x2b obj/sram_board_lowlevel.o
+ .comment       0x00000183       0x2b obj/sram_board_memories.o
+ .comment       0x000001ae       0x2b obj/sram_eefc.o
+ .comment       0x000001d9       0x2b obj/sram_flashd_eefc.o

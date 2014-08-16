@@ -1,0 +1,4 @@
+open /dev/ttyS0 115200
+prot xm
+flash 202000 ./bin/GAME.bin
+go 202000

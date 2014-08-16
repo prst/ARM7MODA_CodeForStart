@@ -1,0 +1,870 @@
+Archive member included because of file (symbol)
+
+/usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+                              obj/sdram_NandFlashModel.o (__aeabi_uidiv)
+/usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+                              obj/sdram_NandFlashModel.o (__aeabi_idiv)
+/usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+                              /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .init          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .fini          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .text          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .init_array    0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .fini_array    0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .eh_frame      0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .jcr           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .data          0x00000000        0x0 obj/sdram_isp_cstartup.o
+ .bss           0x00000000        0x0 obj/sdram_isp_cstartup.o
+ .text          0x00000000        0x0 obj/sdram_main.o
+ .text          0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .data          0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .bss           0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .text.RawNandFlash_CopyPage
+                0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .text.RawNandFlash_CopyBlock
+                0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .text          0x00000000        0x0 obj/sdram_EccNandFlash.o
+ .data          0x00000000        0x0 obj/sdram_EccNandFlash.o
+ .bss           0x00000000        0x0 obj/sdram_EccNandFlash.o
+ .text          0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .data          0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .bss           0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .text.SkipBlockNandFlash_WritePage
+                0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .text.SkipBlockNandFlash_ReadPage
+                0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .text          0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .data          0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .bss           0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .text.NandFlashModel_GetDeviceId
+                0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .text.NandFlashModel_GetDeviceSizeInMBytes
+                0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .text.NandFlashModel_SupportsCopyBack
+                0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .text          0x00000000        0x0 obj/sdram_NandFlashModelList.o
+ .data          0x00000000        0x0 obj/sdram_NandFlashModelList.o
+ .bss           0x00000000        0x0 obj/sdram_NandFlashModelList.o
+ .text          0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .data          0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .bss           0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .text.NandSpareScheme_WriteExtra
+                0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .text.NandSpareScheme_ReadExtra
+                0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .text          0x00000000        0x0 obj/sdram_math.o
+ .data          0x00000000        0x0 obj/sdram_math.o
+ .bss           0x00000000        0x0 obj/sdram_math.o
+ .text.min      0x00000000        0x0 obj/sdram_math.o
+ .text.absv     0x00000000        0x0 obj/sdram_math.o
+ .text.power    0x00000000        0x0 obj/sdram_math.o
+ .text          0x00000000        0x0 obj/sdram_string.o
+ .data          0x00000000        0x0 obj/sdram_string.o
+ .bss           0x00000000        0x0 obj/sdram_string.o
+ .text.strchr   0x00000000        0x0 obj/sdram_string.o
+ .text.strlen   0x00000000        0x0 obj/sdram_string.o
+ .text.strrchr  0x00000000        0x0 obj/sdram_string.o
+ .text.strcpy   0x00000000        0x0 obj/sdram_string.o
+ .text.strncmp  0x00000000        0x0 obj/sdram_string.o
+ .text.strncpy  0x00000000        0x0 obj/sdram_string.o
+ .text          0x00000000        0x0 obj/sdram_stdio.o
+ .bss           0x00000000        0x0 obj/sdram_stdio.o
+ .text.sprintf  0x00000000        0x0 obj/sdram_stdio.o
+ .text.fprintf  0x00000000        0x0 obj/sdram_stdio.o
+ .text.snprintf
+                0x00000000        0x0 obj/sdram_stdio.o
+ .text          0x00000000        0x0 obj/sdram_trace.o
+ .bss           0x00000000        0x0 obj/sdram_trace.o
+ .text.putchar  0x00000000        0x0 obj/sdram_trace.o
+ .text.TRACE_GetHexa32
+                0x00000000        0x0 obj/sdram_trace.o
+ .text.TRACE_GetInteger
+                0x00000000        0x0 obj/sdram_trace.o
+ .text.TRACE_GetIntegerMinMax
+                0x00000000        0x0 obj/sdram_trace.o
+ .text.TRACE_DumpFrame
+                0x00000000        0x0 obj/sdram_trace.o
+ .text.PrintChar
+                0x00000000        0x0 obj/sdram_trace.o
+ .text.TRACE_DumpMemory
+                0x00000000        0x0 obj/sdram_trace.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sdram_trace.o
+ .text          0x00000000        0x0 obj/sdram_hamming.o
+ .data          0x00000000        0x0 obj/sdram_hamming.o
+ .bss           0x00000000        0x0 obj/sdram_hamming.o
+ .text          0x00000000        0x0 obj/sdram_dbgu.o
+ .data          0x00000000        0x0 obj/sdram_dbgu.o
+ .bss           0x00000000        0x0 obj/sdram_dbgu.o
+ .text.DBGU_IsRxReady
+                0x00000000        0x0 obj/sdram_dbgu.o
+ .text.DBGU_GetChar
+                0x00000000        0x0 obj/sdram_dbgu.o
+ .text          0x00000000        0x0 obj/sdram_pio.o
+ .data          0x00000000        0x0 obj/sdram_pio.o
+ .bss           0x00000000        0x0 obj/sdram_pio.o
+ .text.PIO_GetOutputDataStatus
+                0x00000000        0x0 obj/sdram_pio.o
+ .text          0x00000000        0x0 obj/sdram_cp15.o
+ .data          0x00000000        0x0 obj/sdram_cp15.o
+ .bss           0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_LockDcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_LockIcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_IsDcacheEnabled
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_IsMMUEnabled
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_IsIcacheEnabled
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_DisableDcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_ShutdownDcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_EnableDcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_DisableMMU
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_EnableMMU
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_DisableIcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text.CP15_EnableIcache
+                0x00000000        0x0 obj/sdram_cp15.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sdram_cp15.o
+ .text          0x00000000        0x0 obj/sdram_board_memories.o
+ .data          0x00000000        0x0 obj/sdram_board_memories.o
+ .bss           0x00000000        0x0 obj/sdram_board_memories.o
+ .text.sleep_time
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .text.BOARD_ConfigureVddMemSel
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .text.BOARD_RemapRom
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .text.BOARD_RemapRam
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .text.BOARD_ConfigureNandFlash48MHz
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .text.BOARD_ConfigureSdram
+                0x00000000        0x0 obj/sdram_board_memories.o
+ .rodata        0x00000000        0x0 obj/sdram_board_memories.o
+ .text          0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .data          0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .bss           0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.defaultSpuriousHandler
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.defaultFiqHandler
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.defaultIrqHandler
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.BOARD_AT73C224_Read
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.BOARD_AT73C224_Write
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .text.LowLevelInit
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .rodata        0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .rodata.str1.1
+                0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .eh_frame      0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .jcr           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .text          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ .data          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ .bss           0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ .init          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ .fini          0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sram             0x00100000         0x00008000         w !xr
+ddram            0x70000000         0x02000000         w !xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+LOAD obj/sdram_isp_cstartup.o
+LOAD obj/sdram_main.o
+LOAD obj/sdram_RawNandFlash.o
+LOAD obj/sdram_EccNandFlash.o
+LOAD obj/sdram_SkipBlockNandFlash.o
+LOAD obj/sdram_NandFlashModel.o
+LOAD obj/sdram_NandFlashModelList.o
+LOAD obj/sdram_NandSpareScheme.o
+LOAD obj/sdram_math.o
+LOAD obj/sdram_string.o
+LOAD obj/sdram_stdio.o
+LOAD obj/sdram_trace.o
+LOAD obj/sdram_hamming.o
+LOAD obj/sdram_dbgu.o
+LOAD obj/sdram_pio.o
+LOAD obj/sdram_cp15.o
+LOAD obj/sdram_board_memories.o
+LOAD obj/sdram_board_lowlevel.o
+START GROUP
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+LOAD /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+
+.fixed          0x70000000     0x3a54
+                0x70000000                . = ALIGN (0x4)
+                0x70000000                _sfixed = .
+ *(.text*)
+ .text          0x70000000       0xf0 obj/sdram_isp_cstartup.o
+                0x70000000                entry
+ .text.main     0x700000f0      0x6a0 obj/sdram_main.o
+                0x700000f0                main
+ .text.IsOperationComplete
+                0x70000790       0x24 obj/sdram_RawNandFlash.o
+ .text.RawNandFlash_ReadId
+                0x700007b4       0x6c obj/sdram_RawNandFlash.o
+                0x700007b4                RawNandFlash_ReadId
+ .text.ReadData
+                0x70000820       0x48 obj/sdram_RawNandFlash.o
+ .text.WriteData
+                0x70000868       0x48 obj/sdram_RawNandFlash.o
+ .text.WriteColumnAddress
+                0x700008b0       0x58 obj/sdram_RawNandFlash.o
+ .text.WriteRowAddress
+                0x70000908       0x48 obj/sdram_RawNandFlash.o
+ .text.WaitReady
+                0x70000950       0x38 obj/sdram_RawNandFlash.o
+ .text.RawNandFlash_Reset
+                0x70000988       0x58 obj/sdram_RawNandFlash.o
+                0x70000988                RawNandFlash_Reset
+ .text.RawNandFlash_EraseBlock
+                0x700009e0       0xfc obj/sdram_RawNandFlash.o
+                0x700009e0                RawNandFlash_EraseBlock
+ .text.RawNandFlash_WritePage
+                0x70000adc      0x1c8 obj/sdram_RawNandFlash.o
+                0x70000adc                RawNandFlash_WritePage
+ .text.RawNandFlash_ReadPage
+                0x70000ca4      0x148 obj/sdram_RawNandFlash.o
+                0x70000ca4                RawNandFlash_ReadPage
+ .text.RawNandFlash_Initialize
+                0x70000dec       0xb8 obj/sdram_RawNandFlash.o
+                0x70000dec                RawNandFlash_Initialize
+ .text.EccNandFlash_WritePage
+                0x70000ea4       0xfc obj/sdram_EccNandFlash.o
+                0x70000ea4                EccNandFlash_WritePage
+ .text.EccNandFlash_ReadPage
+                0x70000fa0      0x120 obj/sdram_EccNandFlash.o
+                0x70000fa0                EccNandFlash_ReadPage
+ .text.EccNandFlash_Initialize
+                0x700010c0       0x34 obj/sdram_EccNandFlash.o
+                0x700010c0                EccNandFlash_Initialize
+ .text.SkipBlockNandFlash_CheckBlock
+                0x700010f4       0xd0 obj/sdram_SkipBlockNandFlash.o
+                0x700010f4                SkipBlockNandFlash_CheckBlock
+ .text.SkipBlockNandFlash_WriteBlock
+                0x700011c4       0xb8 obj/sdram_SkipBlockNandFlash.o
+                0x700011c4                SkipBlockNandFlash_WriteBlock
+ .text.SkipBlockNandFlash_ReadBlock
+                0x7000127c       0xb8 obj/sdram_SkipBlockNandFlash.o
+                0x7000127c                SkipBlockNandFlash_ReadBlock
+ .text.SkipBlockNandFlash_EraseBlock
+                0x70001334       0xb8 obj/sdram_SkipBlockNandFlash.o
+                0x70001334                SkipBlockNandFlash_EraseBlock
+ .text.SkipBlockNandFlash_Initialize
+                0x700013ec       0xd0 obj/sdram_SkipBlockNandFlash.o
+                0x700013ec                SkipBlockNandFlash_Initialize
+ .text.NandFlashModel_GetScheme
+                0x700014bc        0x4 obj/sdram_NandFlashModel.o
+                0x700014bc                NandFlashModel_GetScheme
+ .text.NandFlashModel_GetDeviceSizeInBlocks
+                0x700014c0       0x28 obj/sdram_NandFlashModel.o
+                0x700014c0                NandFlashModel_GetDeviceSizeInBlocks
+ .text.NandFlashModel_GetDeviceSizeInBytes
+                0x700014e8       0x10 obj/sdram_NandFlashModel.o
+                0x700014e8                NandFlashModel_GetDeviceSizeInBytes
+ .text.NandFlashModel_GetBlockSizeInPages
+                0x700014f8       0x24 obj/sdram_NandFlashModel.o
+                0x700014f8                NandFlashModel_GetBlockSizeInPages
+ .text.NandFlashModel_GetDeviceSizeInPages
+                0x7000151c       0x28 obj/sdram_NandFlashModel.o
+                0x7000151c                NandFlashModel_GetDeviceSizeInPages
+ .text.NandFlashModel_GetBlockSizeInBytes
+                0x70001544        0x8 obj/sdram_NandFlashModel.o
+                0x70001544                NandFlashModel_GetBlockSizeInBytes
+ .text.NandFlashModel_GetPageDataSize
+                0x7000154c        0x4 obj/sdram_NandFlashModel.o
+                0x7000154c                NandFlashModel_GetPageDataSize
+ .text.NandFlashModel_GetPageSpareSize
+                0x70001550        0x8 obj/sdram_NandFlashModel.o
+                0x70001550                NandFlashModel_GetPageSpareSize
+ .text.NandFlashModel_GetDataBusWidth
+                0x70001558       0x14 obj/sdram_NandFlashModel.o
+                0x70001558                NandFlashModel_GetDataBusWidth
+ .text.NandFlashModel_HasSmallBlocks
+                0x7000156c       0x18 obj/sdram_NandFlashModel.o
+                0x7000156c                NandFlashModel_HasSmallBlocks
+ .text.NandFlashModel_Find
+                0x70001584      0x16c obj/sdram_NandFlashModel.o
+                0x70001584                NandFlashModel_Find
+ .text.NandFlashModel_TranslateAccess
+                0x700016f0       0xac obj/sdram_NandFlashModel.o
+                0x700016f0                NandFlashModel_TranslateAccess
+ .text.NandSpareScheme_ReadBadBlockMarker
+                0x7000179c        0x8 obj/sdram_NandSpareScheme.o
+                0x7000179c                NandSpareScheme_ReadBadBlockMarker
+ .text.NandSpareScheme_WriteBadBlockMarker
+                0x700017a4        0x8 obj/sdram_NandSpareScheme.o
+                0x700017a4                NandSpareScheme_WriteBadBlockMarker
+ .text.NandSpareScheme_ReadEcc
+                0x700017ac       0x20 obj/sdram_NandSpareScheme.o
+                0x700017ac                NandSpareScheme_ReadEcc
+ .text.NandSpareScheme_WriteEcc
+                0x700017cc       0x20 obj/sdram_NandSpareScheme.o
+                0x700017cc                NandSpareScheme_WriteEcc
+ .text.memcpy   0x700017ec       0x30 obj/sdram_string.o
+                0x700017ec                memcpy
+ .text.memset   0x7000181c       0x38 obj/sdram_string.o
+                0x7000181c                memset
+ .text.PutChar  0x70001854        0x8 obj/sdram_stdio.o
+                0x70001854                PutChar
+ .text.PutString
+                0x7000185c       0x18 obj/sdram_stdio.o
+                0x7000185c                PutString
+ .text.PutUnsignedInt
+                0x70001874       0x7c obj/sdram_stdio.o
+                0x70001874                PutUnsignedInt
+ .text.PutSignedInt
+                0x700018f0       0xb4 obj/sdram_stdio.o
+                0x700018f0                PutSignedInt
+ .text.PutHexa  0x700019a4       0x7c obj/sdram_stdio.o
+                0x700019a4                PutHexa
+ .text.vsnprintf
+                0x70001a20      0x148 obj/sdram_stdio.o
+                0x70001a20                vsnprintf
+ .text.vsprintf
+                0x70001b68       0x20 obj/sdram_stdio.o
+                0x70001b68                vsprintf
+ .text.puts     0x70001b88       0x20 obj/sdram_stdio.o
+                0x70001b88                puts
+ .text.vfprintf
+                0x70001ba8       0x60 obj/sdram_stdio.o
+                0x70001ba8                vfprintf
+ .text.vprintf  0x70001c08       0x28 obj/sdram_stdio.o
+                0x70001c08                vprintf
+ .text.printf   0x70001c30       0x28 obj/sdram_stdio.o
+                0x70001c30                printf
+ .text.fputc    0x70001c58       0x38 obj/sdram_trace.o
+                0x70001c58                fputc
+ .text.fputs    0x70001c90       0x34 obj/sdram_trace.o
+                0x70001c90                fputs
+ .text.CountBitsInByte
+                0x70001cc4       0x1c obj/sdram_hamming.o
+ .text.CountBitsInCode256
+                0x70001ce0       0x34 obj/sdram_hamming.o
+ .text.Compute256
+                0x70001d14      0x150 obj/sdram_hamming.o
+ .text.Hamming_Compute256x
+                0x70001e64       0x54 obj/sdram_hamming.o
+                0x70001e64                Hamming_Compute256x
+ .text.Hamming_Verify256x
+                0x70001eb8      0x17c obj/sdram_hamming.o
+                0x70001eb8                Hamming_Verify256x
+ .text.DBGU_Configure
+                0x70002034       0x40 obj/sdram_dbgu.o
+                0x70002034                DBGU_Configure
+ .text.DBGU_PutChar
+                0x70002074       0x1c obj/sdram_dbgu.o
+                0x70002074                DBGU_PutChar
+ .text.PIO_Configure
+                0x70002090       0xbc obj/sdram_pio.o
+                0x70002090                PIO_Configure
+ .text.PIO_Set  0x7000214c        0x8 obj/sdram_pio.o
+                0x7000214c                PIO_Set
+ .text.PIO_Clear
+                0x70002154        0x8 obj/sdram_pio.o
+                0x70002154                PIO_Clear
+ .text.PIO_Get  0x7000215c       0x30 obj/sdram_pio.o
+                0x7000215c                PIO_Get
+ .text.BOARD_ConfigureNandFlash
+                0x7000218c       0x60 obj/sdram_board_memories.o
+                0x7000218c                BOARD_ConfigureNandFlash
+ .text          0x700021ec      0x114 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+                0x700021ec                __udivsi3
+                0x700021ec                __aeabi_uidiv
+                0x700022e0                __aeabi_uidivmod
+ .text          0x70002300      0x148 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+                0x70002300                __aeabi_idiv
+                0x70002300                __divsi3
+                0x70002428                __aeabi_idivmod
+ .text          0x70002448        0x4 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+                0x70002448                __aeabi_ldiv0
+                0x70002448                __aeabi_idiv0
+ *(.rodata*)
+ .rodata        0x7000244c       0x30 obj/sdram_main.o
+ .rodata.str1.1
+                0x7000247c      0x3af obj/sdram_main.o
+ .rodata.str1.1
+                0x7000282b      0x485 obj/sdram_RawNandFlash.o
+ .rodata.str1.1
+                0x70002cb0      0x12a obj/sdram_EccNandFlash.o
+                                0x137 (size before relaxing)
+ .rodata.str1.1
+                0x70002dda      0x2e9 obj/sdram_SkipBlockNandFlash.o
+ .rodata.str1.1
+                0x700030c3      0x125 obj/sdram_NandFlashModel.o
+ .rodata        0x700031e8      0x2b8 obj/sdram_NandFlashModelList.o
+                0x700031e8                nandFlashModelList
+ .rodata        0x700034a0       0xc3 obj/sdram_NandSpareScheme.o
+                0x700034e1                nandSpareScheme512
+                0x700034a0                nandSpareScheme256
+                0x70003522                nandSpareScheme2048
+ .rodata.str1.1
+                0x70003563       0x24 obj/sdram_stdio.o
+ .rodata.str1.1
+                0x70003587       0xa7 obj/sdram_hamming.o
+ *fill*         0x7000362e        0x2 00
+ .rodata        0x70003630       0x14 obj/sdram_pio.o
+ *(.glue_7)
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .glue_7        0x70003644        0x0 obj/sdram_isp_cstartup.o
+ .glue_7        0x70003644        0x0 obj/sdram_main.o
+ .glue_7        0x70003644        0x0 obj/sdram_RawNandFlash.o
+ .glue_7        0x70003644        0x0 obj/sdram_EccNandFlash.o
+ .glue_7        0x70003644        0x0 obj/sdram_SkipBlockNandFlash.o
+ .glue_7        0x70003644        0x0 obj/sdram_NandFlashModel.o
+ .glue_7        0x70003644        0x0 obj/sdram_NandFlashModelList.o
+ .glue_7        0x70003644        0x0 obj/sdram_NandSpareScheme.o
+ .glue_7        0x70003644        0x0 obj/sdram_math.o
+ .glue_7        0x70003644        0x0 obj/sdram_string.o
+ .glue_7        0x70003644        0x0 obj/sdram_stdio.o
+ .glue_7        0x70003644        0x0 obj/sdram_trace.o
+ .glue_7        0x70003644        0x0 obj/sdram_hamming.o
+ .glue_7        0x70003644        0x0 obj/sdram_dbgu.o
+ .glue_7        0x70003644        0x0 obj/sdram_pio.o
+ .glue_7        0x70003644        0x0 obj/sdram_cp15.o
+ .glue_7        0x70003644        0x0 obj/sdram_board_memories.o
+ .glue_7        0x70003644        0x0 obj/sdram_board_lowlevel.o
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .glue_7        0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ *(.glue_7t)
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .glue_7t       0x70003644        0x0 obj/sdram_isp_cstartup.o
+ .glue_7t       0x70003644        0x0 obj/sdram_main.o
+ .glue_7t       0x70003644        0x0 obj/sdram_RawNandFlash.o
+ .glue_7t       0x70003644        0x0 obj/sdram_EccNandFlash.o
+ .glue_7t       0x70003644        0x0 obj/sdram_SkipBlockNandFlash.o
+ .glue_7t       0x70003644        0x0 obj/sdram_NandFlashModel.o
+ .glue_7t       0x70003644        0x0 obj/sdram_NandFlashModelList.o
+ .glue_7t       0x70003644        0x0 obj/sdram_NandSpareScheme.o
+ .glue_7t       0x70003644        0x0 obj/sdram_math.o
+ .glue_7t       0x70003644        0x0 obj/sdram_string.o
+ .glue_7t       0x70003644        0x0 obj/sdram_stdio.o
+ .glue_7t       0x70003644        0x0 obj/sdram_trace.o
+ .glue_7t       0x70003644        0x0 obj/sdram_hamming.o
+ .glue_7t       0x70003644        0x0 obj/sdram_dbgu.o
+ .glue_7t       0x70003644        0x0 obj/sdram_pio.o
+ .glue_7t       0x70003644        0x0 obj/sdram_cp15.o
+ .glue_7t       0x70003644        0x0 obj/sdram_board_memories.o
+ .glue_7t       0x70003644        0x0 obj/sdram_board_lowlevel.o
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .glue_7t       0x70003644        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+ *(.data)
+ .data          0x70003644        0x1 obj/sdram_main.o
+ *fill*         0x70003645        0x3 00
+ .data          0x70003648      0x408 obj/sdram_stdio.o
+                0x70003650                r
+                0x70003648                _impure_ptr
+ .data          0x70003a50        0x4 obj/sdram_trace.o
+                0x70003a50                traceLevel
+                0x70003a54                . = ALIGN (0x4)
+                0x70003a54                _efixed = .
+
+.vfp11_veneer   0x00000000        0x0
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_isp_cstartup.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_main.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_EccNandFlash.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_NandFlashModelList.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_math.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_string.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_stdio.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_trace.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_hamming.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_dbgu.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_pio.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_cp15.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_board_memories.o
+ .vfp11_veneer  0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .vfp11_veneer  0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+
+.v4_bx          0x00000000        0x0
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .v4_bx         0x00000000        0x0 obj/sdram_isp_cstartup.o
+ .v4_bx         0x00000000        0x0 obj/sdram_main.o
+ .v4_bx         0x00000000        0x0 obj/sdram_RawNandFlash.o
+ .v4_bx         0x00000000        0x0 obj/sdram_EccNandFlash.o
+ .v4_bx         0x00000000        0x0 obj/sdram_SkipBlockNandFlash.o
+ .v4_bx         0x00000000        0x0 obj/sdram_NandFlashModel.o
+ .v4_bx         0x00000000        0x0 obj/sdram_NandFlashModelList.o
+ .v4_bx         0x00000000        0x0 obj/sdram_NandSpareScheme.o
+ .v4_bx         0x00000000        0x0 obj/sdram_math.o
+ .v4_bx         0x00000000        0x0 obj/sdram_string.o
+ .v4_bx         0x00000000        0x0 obj/sdram_stdio.o
+ .v4_bx         0x00000000        0x0 obj/sdram_trace.o
+ .v4_bx         0x00000000        0x0 obj/sdram_hamming.o
+ .v4_bx         0x00000000        0x0 obj/sdram_dbgu.o
+ .v4_bx         0x00000000        0x0 obj/sdram_pio.o
+ .v4_bx         0x00000000        0x0 obj/sdram_cp15.o
+ .v4_bx         0x00000000        0x0 obj/sdram_board_memories.o
+ .v4_bx         0x00000000        0x0 obj/sdram_board_lowlevel.o
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .v4_bx         0x00000000        0x0 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+
+.prerelocate    0x00000000        0x0 load address 0x70003a54
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _sprerelocate = .
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _eprerelocate = .
+
+.postrelocate   0x00100000        0x0 load address 0x70003a54
+                0x00100000                . = ALIGN (0x4)
+                0x00100000                _spostrelocate = .
+ *(.vectors)
+                0x00100000                . = ALIGN (0x4)
+                0x00100000                _epostrelocate = .
+
+.bss            0x70003a54       0x44
+                0x70003a54                _szero = .
+ *(.bss)
+ .bss           0x70003a54       0x44 obj/sdram_main.o
+                0x70003a98                . = ALIGN (0x4)
+                0x70003a98                _ezero = .
+                0x00108000                _sstack = 0x108000
+                0x70003a98                end = .
+OUTPUT(bin/isp-nandflash-at91cap9.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x14 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crti.o
+ .ARM.attributes
+                0x00000014       0x2e /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtbegin.o
+ .ARM.attributes
+                0x00000042       0x14 obj/sdram_isp_cstartup.o
+ .ARM.attributes
+                0x00000056       0x2e obj/sdram_main.o
+ .ARM.attributes
+                0x00000084       0x2e obj/sdram_RawNandFlash.o
+ .ARM.attributes
+                0x000000b2       0x2e obj/sdram_EccNandFlash.o
+ .ARM.attributes
+                0x000000e0       0x2e obj/sdram_SkipBlockNandFlash.o
+ .ARM.attributes
+                0x0000010e       0x2e obj/sdram_NandFlashModel.o
+ .ARM.attributes
+                0x0000013c       0x2c obj/sdram_NandFlashModelList.o
+ .ARM.attributes
+                0x00000168       0x2e obj/sdram_NandSpareScheme.o
+ .ARM.attributes
+                0x00000196       0x2e obj/sdram_math.o
+ .ARM.attributes
+                0x000001c4       0x2e obj/sdram_string.o
+ .ARM.attributes
+                0x000001f2       0x2e obj/sdram_stdio.o
+ .ARM.attributes
+                0x00000220       0x2e obj/sdram_trace.o
+ .ARM.attributes
+                0x0000024e       0x2e obj/sdram_hamming.o
+ .ARM.attributes
+                0x0000027c       0x2e obj/sdram_dbgu.o
+ .ARM.attributes
+                0x000002aa       0x2e obj/sdram_pio.o
+ .ARM.attributes
+                0x000002d8       0x2e obj/sdram_cp15.o
+ .ARM.attributes
+                0x00000306       0x2e obj/sdram_board_memories.o
+ .ARM.attributes
+                0x00000334       0x2e obj/sdram_board_lowlevel.o
+ .ARM.attributes
+                0x00000362       0x14 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000376       0x14 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000038a       0x14 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000039e       0x2c /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtend.o
+ .ARM.attributes
+                0x000003ca       0x14 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/crtn.o
+
+.debug_line     0x00000000     0x1c30
+ .debug_line    0x00000000       0x61 obj/sdram_isp_cstartup.o
+ .debug_line    0x00000061      0x219 obj/sdram_main.o
+ .debug_line    0x0000027a      0x329 obj/sdram_RawNandFlash.o
+ .debug_line    0x000005a3      0x18a obj/sdram_EccNandFlash.o
+ .debug_line    0x0000072d      0x231 obj/sdram_SkipBlockNandFlash.o
+ .debug_line    0x0000095e      0x1d9 obj/sdram_NandFlashModel.o
+ .debug_line    0x00000b37       0x7f obj/sdram_NandFlashModelList.o
+ .debug_line    0x00000bb6       0xea obj/sdram_NandSpareScheme.o
+ .debug_line    0x00000ca0       0x78 obj/sdram_math.o
+ .debug_line    0x00000d18      0x169 obj/sdram_string.o
+ .debug_line    0x00000e81      0x342 obj/sdram_stdio.o
+ .debug_line    0x000011c3      0x2c2 obj/sdram_trace.o
+ .debug_line    0x00001485      0x122 obj/sdram_hamming.o
+ .debug_line    0x000015a7       0xd7 obj/sdram_dbgu.o
+ .debug_line    0x0000167e      0x12c obj/sdram_pio.o
+ .debug_line    0x000017aa      0x162 obj/sdram_cp15.o
+ .debug_line    0x0000190c      0x17e obj/sdram_board_memories.o
+ .debug_line    0x00001a8a      0x1a6 obj/sdram_board_lowlevel.o
+
+.debug_info     0x00000000     0x6f6c
+ .debug_info    0x00000000       0x95 obj/sdram_isp_cstartup.o
+ .debug_info    0x00000095      0x925 obj/sdram_main.o
+ .debug_info    0x000009ba      0xc14 obj/sdram_RawNandFlash.o
+ .debug_info    0x000015ce      0x6ea obj/sdram_EccNandFlash.o
+ .debug_info    0x00001cb8      0x870 obj/sdram_SkipBlockNandFlash.o
+ .debug_info    0x00002528      0x4c2 obj/sdram_NandFlashModel.o
+ .debug_info    0x000029ea      0x168 obj/sdram_NandFlashModelList.o
+ .debug_info    0x00002b52      0x346 obj/sdram_NandSpareScheme.o
+ .debug_info    0x00002e98      0x116 obj/sdram_math.o
+ .debug_info    0x00002fae      0x358 obj/sdram_string.o
+ .debug_info    0x00003306      0xe81 obj/sdram_stdio.o
+ .debug_info    0x00004187      0xbd8 obj/sdram_trace.o
+ .debug_info    0x00004d5f      0x2f1 obj/sdram_hamming.o
+ .debug_info    0x00005050      0x27f obj/sdram_dbgu.o
+ .debug_info    0x000052cf      0x6e3 obj/sdram_pio.o
+ .debug_info    0x000059b2      0x281 obj/sdram_cp15.o
+ .debug_info    0x00005c33      0x8d3 obj/sdram_board_memories.o
+ .debug_info    0x00006506      0xa66 obj/sdram_board_lowlevel.o
+
+.debug_abbrev   0x00000000     0x18f7
+ .debug_abbrev  0x00000000       0x14 obj/sdram_isp_cstartup.o
+ .debug_abbrev  0x00000014      0x1a5 obj/sdram_main.o
+ .debug_abbrev  0x000001b9      0x29a obj/sdram_RawNandFlash.o
+ .debug_abbrev  0x00000453      0x174 obj/sdram_EccNandFlash.o
+ .debug_abbrev  0x000005c7      0x1a2 obj/sdram_SkipBlockNandFlash.o
+ .debug_abbrev  0x00000769      0x158 obj/sdram_NandFlashModel.o
+ .debug_abbrev  0x000008c1       0x93 obj/sdram_NandFlashModelList.o
+ .debug_abbrev  0x00000954      0x110 obj/sdram_NandSpareScheme.o
+ .debug_abbrev  0x00000a64       0xb6 obj/sdram_math.o
+ .debug_abbrev  0x00000b1a      0x10f obj/sdram_string.o
+ .debug_abbrev  0x00000c29      0x27c obj/sdram_stdio.o
+ .debug_abbrev  0x00000ea5      0x252 obj/sdram_trace.o
+ .debug_abbrev  0x000010f7      0x1a0 obj/sdram_hamming.o
+ .debug_abbrev  0x00001297       0xcf obj/sdram_dbgu.o
+ .debug_abbrev  0x00001366      0x190 obj/sdram_pio.o
+ .debug_abbrev  0x000014f6       0xc9 obj/sdram_cp15.o
+ .debug_abbrev  0x000015bf      0x169 obj/sdram_board_memories.o
+ .debug_abbrev  0x00001728      0x1cf obj/sdram_board_lowlevel.o
+
+.debug_aranges  0x00000000      0x558
+ .debug_aranges
+                0x00000000       0x20 obj/sdram_isp_cstartup.o
+ .debug_aranges
+                0x00000020       0x20 obj/sdram_main.o
+ .debug_aranges
+                0x00000040       0x88 obj/sdram_RawNandFlash.o
+ .debug_aranges
+                0x000000c8       0x30 obj/sdram_EccNandFlash.o
+ .debug_aranges
+                0x000000f8       0x50 obj/sdram_SkipBlockNandFlash.o
+ .debug_aranges
+                0x00000148       0x90 obj/sdram_NandFlashModel.o
+ .debug_aranges
+                0x000001d8       0x48 obj/sdram_NandSpareScheme.o
+ .debug_aranges
+                0x00000220       0x30 obj/sdram_math.o
+ .debug_aranges
+                0x00000250       0x58 obj/sdram_string.o
+ .debug_aranges
+                0x000002a8       0x88 obj/sdram_stdio.o
+ .debug_aranges
+                0x00000330       0x60 obj/sdram_trace.o
+ .debug_aranges
+                0x00000390       0x40 obj/sdram_hamming.o
+ .debug_aranges
+                0x000003d0       0x38 obj/sdram_dbgu.o
+ .debug_aranges
+                0x00000408       0x40 obj/sdram_pio.o
+ .debug_aranges
+                0x00000448       0x78 obj/sdram_cp15.o
+ .debug_aranges
+                0x000004c0       0x50 obj/sdram_board_memories.o
+ .debug_aranges
+                0x00000510       0x48 obj/sdram_board_lowlevel.o
+
+.debug_frame    0x00000000      0xd54
+ .debug_frame   0x00000000       0x34 obj/sdram_main.o
+ .debug_frame   0x00000034      0x1ac obj/sdram_RawNandFlash.o
+ .debug_frame   0x000001e0       0x78 obj/sdram_EccNandFlash.o
+ .debug_frame   0x00000258       0xf0 obj/sdram_SkipBlockNandFlash.o
+ .debug_frame   0x00000348      0x14c obj/sdram_NandFlashModel.o
+ .debug_frame   0x00000494       0x9c obj/sdram_NandSpareScheme.o
+ .debug_frame   0x00000530       0x58 obj/sdram_math.o
+ .debug_frame   0x00000588       0xd8 obj/sdram_string.o
+ .debug_frame   0x00000660      0x198 obj/sdram_stdio.o
+ .debug_frame   0x000007f8      0x110 obj/sdram_trace.o
+ .debug_frame   0x00000908       0xa4 obj/sdram_hamming.o
+ .debug_frame   0x000009ac       0x6c obj/sdram_dbgu.o
+ .debug_frame   0x00000a18       0x80 obj/sdram_pio.o
+ .debug_frame   0x00000a98      0x134 obj/sdram_cp15.o
+ .debug_frame   0x00000bcc       0xa8 obj/sdram_board_memories.o
+ .debug_frame   0x00000c74       0xa0 obj/sdram_board_lowlevel.o
+ .debug_frame   0x00000d14       0x20 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000d34       0x20 /usr/local/codesourcery/arm-none-eabi/arm-2008q1/bin/../lib/gcc/arm-none-eabi/4.2.3/libgcc.a(_divsi3.o)
+
+.debug_loc      0x00000000     0x383e
+ .debug_loc     0x00000000      0x533 obj/sdram_main.o
+ .debug_loc     0x00000533      0x905 obj/sdram_RawNandFlash.o
+ .debug_loc     0x00000e38      0x27b obj/sdram_EccNandFlash.o
+ .debug_loc     0x000010b3      0x4ca obj/sdram_SkipBlockNandFlash.o
+ .debug_loc     0x0000157d      0x46a obj/sdram_NandFlashModel.o
+ .debug_loc     0x000019e7      0x2ab obj/sdram_NandSpareScheme.o
+ .debug_loc     0x00001c92       0xe0 obj/sdram_math.o
+ .debug_loc     0x00001d72      0x319 obj/sdram_string.o
+ .debug_loc     0x0000208b      0x90e obj/sdram_stdio.o
+ .debug_loc     0x00002999      0x420 obj/sdram_trace.o
+ .debug_loc     0x00002db9      0x314 obj/sdram_hamming.o
+ .debug_loc     0x000030cd       0xa1 obj/sdram_dbgu.o
+ .debug_loc     0x0000316e      0x1a2 obj/sdram_pio.o
+ .debug_loc     0x00003310      0x2be obj/sdram_cp15.o
+ .debug_loc     0x000035ce       0xad obj/sdram_board_memories.o
+ .debug_loc     0x0000367b      0x1c3 obj/sdram_board_lowlevel.o
+
+.debug_pubnames
+                0x00000000      0xb35
+ .debug_pubnames
+                0x00000000       0x1b obj/sdram_main.o
+ .debug_pubnames
+                0x0000001b       0xe3 obj/sdram_RawNandFlash.o
+ .debug_pubnames
+                0x000000fe       0x63 obj/sdram_EccNandFlash.o
+ .debug_pubnames
+                0x00000161       0xfc obj/sdram_SkipBlockNandFlash.o
+ .debug_pubnames
+                0x0000025d      0x229 obj/sdram_NandFlashModel.o
+ .debug_pubnames
+                0x00000486       0x29 obj/sdram_NandFlashModelList.o
+ .debug_pubnames
+                0x000004af      0x11d obj/sdram_NandSpareScheme.o
+ .debug_pubnames
+                0x000005cc       0x2d obj/sdram_math.o
+ .debug_pubnames
+                0x000005f9       0x6d obj/sdram_string.o
+ .debug_pubnames
+                0x00000666       0xdf obj/sdram_stdio.o
+ .debug_pubnames
+                0x00000745       0xae obj/sdram_trace.o
+ .debug_pubnames
+                0x000007f3       0x41 obj/sdram_hamming.o
+ .debug_pubnames
+                0x00000834       0x5a obj/sdram_dbgu.o
+ .debug_pubnames
+                0x0000088e       0x66 obj/sdram_pio.o
+ .debug_pubnames
+                0x000008f4      0x11b obj/sdram_cp15.o
+ .debug_pubnames
+                0x00000a0f       0xbc obj/sdram_board_memories.o
+ .debug_pubnames
+                0x00000acb       0x6a obj/sdram_board_lowlevel.o
+
+.debug_ranges   0x00000000      0x140
+ .debug_ranges  0x00000000       0x18 obj/sdram_main.o
+ .debug_ranges  0x00000018       0xb8 obj/sdram_RawNandFlash.o
+ .debug_ranges  0x000000d0       0x20 obj/sdram_hamming.o
+ .debug_ranges  0x000000f0       0x50 obj/sdram_board_lowlevel.o
+
+.debug_str      0x00000000     0x1e87
+ .debug_str     0x00000000      0x564 obj/sdram_main.o
+                                0x5b3 (size before relaxing)
+ .debug_str     0x00000564      0x219 obj/sdram_RawNandFlash.o
+                                0x574 (size before relaxing)
+ .debug_str     0x0000077d       0x8e obj/sdram_EccNandFlash.o
+                                0x444 (size before relaxing)
+ .debug_str     0x0000080b      0x11d obj/sdram_SkipBlockNandFlash.o
+                                0x4f9 (size before relaxing)
+ .debug_str     0x00000928      0x240 obj/sdram_NandFlashModel.o
+                                0x3d9 (size before relaxing)
+ .debug_str     0x00000b68       0x70 obj/sdram_NandFlashModelList.o
+                                0x1c9 (size before relaxing)
+ .debug_str     0x00000bd8       0xed obj/sdram_NandSpareScheme.o
+                                0x28f (size before relaxing)
+ .debug_str     0x00000cc5       0x28 obj/sdram_math.o
+                                0x11d (size before relaxing)
+ .debug_str     0x00000ced      0x100 obj/sdram_string.o
+                                0x1f4 (size before relaxing)
+ .debug_str     0x00000ded      0x45c obj/sdram_stdio.o
+                                0x5b4 (size before relaxing)
+ .debug_str     0x00001249       0xb4 obj/sdram_trace.o
+                                0x57c (size before relaxing)
+ .debug_str     0x000012fd       0xf2 obj/sdram_hamming.o
+                                0x202 (size before relaxing)
+ .debug_str     0x000013ef      0x146 obj/sdram_dbgu.o
+                                0x1d4 (size before relaxing)
+ .debug_str     0x00001535      0x17d obj/sdram_pio.o
+                                0x362 (size before relaxing)
+ .debug_str     0x000016b2      0x114 obj/sdram_cp15.o
+                                0x207 (size before relaxing)
+ .debug_str     0x000017c6      0x3a4 obj/sdram_board_memories.o
+                                0x5b8 (size before relaxing)
+ .debug_str     0x00001b6a      0x31d obj/sdram_board_lowlevel.o
+                                0x627 (size before relaxing)
+
+.comment        0x00000000      0x2db
+ .comment       0x00000000       0x2b obj/sdram_main.o
+ .comment       0x0000002b       0x2b obj/sdram_RawNandFlash.o
+ .comment       0x00000056       0x2b obj/sdram_EccNandFlash.o
+ .comment       0x00000081       0x2b obj/sdram_SkipBlockNandFlash.o
+ .comment       0x000000ac       0x2b obj/sdram_NandFlashModel.o
+ .comment       0x000000d7       0x2b obj/sdram_NandFlashModelList.o
+ .comment       0x00000102       0x2b obj/sdram_NandSpareScheme.o
+ .comment       0x0000012d       0x2b obj/sdram_math.o
+ .comment       0x00000158       0x2b obj/sdram_string.o
+ .comment       0x00000183       0x2b obj/sdram_stdio.o
+ .comment       0x000001ae       0x2b obj/sdram_trace.o
+ .comment       0x000001d9       0x2b obj/sdram_hamming.o
+ .comment       0x00000204       0x2b obj/sdram_dbgu.o
+ .comment       0x0000022f       0x2b obj/sdram_pio.o
+ .comment       0x0000025a       0x2b obj/sdram_cp15.o
+ .comment       0x00000285       0x2b obj/sdram_board_memories.o
+ .comment       0x000002b0       0x2b obj/sdram_board_lowlevel.o
