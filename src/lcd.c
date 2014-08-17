@@ -300,7 +300,7 @@ void lcd_cmd (unsigned char ch)
 // Set address of first byte on desired row
 void lcd_xy( unsigned char y, unsigned char x )
 {	
-  unsigned char  LCD_ROW_ADDRESS[4] = { 0x00, 0x40, 0x14, 0x54 };
+  const static unsigned char  LCD_ROW_ADDRESS[4] = { 0x00, 0x40, 0x14, 0x54 };
   unsigned char  AddrXYData;
   AT91PS_SYS     regs = AT91C_BASE_SYS;
  
