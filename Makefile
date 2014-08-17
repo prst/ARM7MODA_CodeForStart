@@ -7,5 +7,5 @@ export INCLUDE = $(PWD)/inc
 export SOURCE  = $(PWD)/src
 export LINKER  = $(PWD)/lnk
 
-all x clean:
-	$(MAKE) -f $(VPATH)/Makefile -C obj $@
+all x clean prog:
+	@$(MAKE) --no-print-directory -f $(VPATH)/Makefile -C obj $@
