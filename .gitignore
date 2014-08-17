@@ -1,4 +1,5 @@
 /obj/*.o
+/obj/*.d
 /bin/ARM7MODA.bin
 /bin/ARM7MODA.elf
 /bin/ARM7MODA.hex
