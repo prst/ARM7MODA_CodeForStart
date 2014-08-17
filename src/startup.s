@@ -114,13 +114,14 @@
         .global _startup
         .func   _startup
 _startup:
+        .globl _start
+_start:
 
 # Exception Vectors
 #  Mapped to Address 0.
 #  Absolute addressing mode must be used.
 #  Dummy Handlers are implemented as infinite loops which can be modified.
 
-start:
 Vectors:        
 		LDR     PC, Reset_Addr         
                 LDR     PC, Undef_Addr
